@@ -1,0 +1,21 @@
+{
+  "zones": [
+    {
+      "name": "example.org",
+      "api_token": "abcd",
+      "records": [
+        "test1",
+        "test3"
+      ]
+    },
+    {
+      "name": "example.com",
+      "api_token": "ghij",
+      "records": [
+        "test1",
+        "test2",
+	"test4"
+      ]
+    }
+  ]
+}
